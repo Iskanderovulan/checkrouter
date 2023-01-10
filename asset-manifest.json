@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/checkrouter/static/css/main.affde083.css",
+    "main.js": "/checkrouter/static/js/main.379ff418.js",
+    "index.html": "/checkrouter/index.html",
+    "main.affde083.css.map": "/checkrouter/static/css/main.affde083.css.map",
+    "main.379ff418.js.map": "/checkrouter/static/js/main.379ff418.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.affde083.css",
+    "static/js/main.379ff418.js"
+  ]
+}
